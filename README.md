@@ -1,0 +1,1 @@
+# Deteksi-Gestur-Tangan-Menggunakan-Metode-SVM
